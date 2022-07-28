@@ -1,0 +1,138 @@
+{
+  "type": "FeatureCollection",
+  "bbox": [-105.882266, 40.43627, -104.70536, 40.58621],
+  "features": [
+      {
+      "type": "Feature",
+      "bbox": [-105.882266, 40.527357, -105.882266, 40.527357],
+      "properties": {
+        "Organization": "Cameron Pass Nordic Ranger Program",
+        "OrganizationType": "Volunteer",
+        "Description": "Nordic trail maintenance",
+        "Programs": "Nordic trail maintenance, education.",
+        "Website": "https://www.fs.usda.gov/detail/arp/workingtogether/volunteering/?cid\u003dstelprdb5213201",
+        "InBasin": "Yes",
+        "Longitude": -105.882266,
+        "Latitude": 40.527357,
+        "LongitudeMain": "",
+        "LatitudeMain": "",
+        "WebsiteMain": "",
+        "Notes": "Coordinates for Moose Visitor Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.882266, 40.527357]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-105.04508, 40.574539, -105.04508, 40.574539],
+      "properties": {
+        "Organization": "Fort Collins Natural Areas",
+        "OrganizationType": "City government",
+        "Description": "City department that manages natural areas.",
+        "Programs": "Natural areas and open space, including Poudre River.",
+        "Website": "https://www.fcgov.com/naturalareas/",
+        "InBasin": "Yes",
+        "Longitude": -105.04508,
+        "Latitude": 40.574539,
+        "LongitudeMain": "",
+        "LatitudeMain": "",
+        "WebsiteMain": "",
+        "Notes": "Coordinates are Nix office."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.04508, 40.574539]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-104.70536, 40.43627, -104.70536, 40.43627],
+      "properties": {
+        "Organization": "Greeley Natural Areas and Trails",
+        "OrganizationType": "City government",
+        "Description": "City department that manages natural areas.",
+        "Programs": "Natural areas and trails.",
+        "Website": "https://greeleygov.com/services/ws/system/activities/natural-areas/natural-areas",
+        "InBasin": "Yes",
+        "Longitude": -104.70536,
+        "Latitude": 40.43627,
+        "LongitudeMain": "",
+        "LatitudeMain": "",
+        "WebsiteMain": "",
+        "Notes": "321 N 16th Ave, Greeley, CO 80631"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.70536, 40.43627]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-105.07982, 40.58621, -105.07982, 40.58621],
+      "properties": {
+        "Organization": "Larimer County",
+        "OrganizationType": "County government",
+        "Description": "County parks, open spaces, trails",
+        "Programs": "Parks, open space, trails",
+        "Website": "https://www.larimer.org/naturalresources/parks",
+        "InBasin": "Yes",
+        "Longitude": -105.07982,
+        "Latitude": 40.58621,
+        "LongitudeMain": "",
+        "LatitudeMain": "",
+        "WebsiteMain": "",
+        "Notes": "200 W Oak St, Fort Collins, CO 80524"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.07982, 40.58621]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-104.70537, 40.43627, -104.70537, 40.43627],
+      "properties": {
+        "Organization": "Poudre Trail",
+        "OrganizationType": "Nonprofit",
+        "Description": "Poudre trail",
+        "Programs": "Poudre trail",
+        "Website": "https://poudretrail.org/",
+        "InBasin": "Yes",
+        "Longitude": -104.70537,
+        "Latitude": 40.43627,
+        "LongitudeMain": "",
+        "LatitudeMain": "",
+        "WebsiteMain": "",
+        "Notes": "Poudre Trail Corridor, Inc, 321 N 16th Ave, Greeley, CO 80631"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.70537, 40.43627]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-105.07315, 40.53125, -105.07315, 40.53125],
+      "properties": {
+        "Organization": "Poudre Wilderness Volunteers",
+        "OrganizationType": "Nonprofit",
+        "Description": "Caring for Northern Colorado Wilderness.",
+        "Programs": "Hiking, riding, educating.",
+        "Website": "https://www.pwv.org/",
+        "InBasin": "Yes",
+        "Longitude": -105.07315,
+        "Latitude": 40.53125,
+        "LongitudeMain": "",
+        "LatitudeMain": "",
+        "WebsiteMain": "",
+        "Notes": "PO Box 271921, Fort Collins, CO  80527"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.07315, 40.53125]
+      }
+    }
+  ]
+}

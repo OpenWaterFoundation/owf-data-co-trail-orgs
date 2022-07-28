@@ -1,0 +1,24 @@
+{
+  "title": "Colorado Trail Organizations",
+  "description": "Colorado trail organizations.",
+  "identifier": "owf-data-co-trail-orgs",
+  "landingPage": "https://data.openwaterfoundation.org/state/co/owf/trail-orgs/",
+  "issued": "2022-07-27",
+  "keyword": [
+    "point",
+    "trails"
+  ],
+  "publisher": {
+    "name": "Open Water Foundation",
+    "mbox": "info@openwaterfoundation.org"
+  },
+  "distribution": [
+    {
+      "accessURL": "",
+      "byteSize": null,
+      "description": "Resource locator",
+      "format": "application/geo+json",
+      "title": "Colorado Trail Organizations"
+    }
+  ]
+}

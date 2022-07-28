@@ -1,0 +1,7 @@
+# Read trail organizations from Excel worksheet and convert to GeoJSON:
+# - TODO smalers 2020-06-13 maybe filter by InBasin to 2 layers and show different icon
+#   or otherwise filter and change icons
+ReadTableFromExcel(TableID="TrailOrgsData",InputFile="../data/co-trail-orgs.xlsx",Worksheet="Data",ExcelColumnNames=FirstRowInRange)
+#
+# Export table to GeoJSON format.
+WriteTableToGeoJSON(TableID="TrailOrgsData",OutputFile="../data/co-trail-orgs.geojson",LongitudeColumn="Longitude",LatitudeColumn="Latitude")
