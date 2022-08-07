@@ -8,9 +8,9 @@ The initial focus is the Poudre Basin and organizations for other areas will be 
 
 The following files can be downloaded or used directly.
 
-| **Layer File** | **Description** |
-| -- | -- |
-| [`co-trail-orgs.geojson`](co-trail-orgs.geojson) | Colorado trail organizations. |
+| **Layer File** | **Description** | **View** |
+| -- | -- | -- |
+| [`co-trail-orgs.geojson`](co-trail-orgs.geojson) | Colorado trail organizations. | [View](https://gavinr.github.io/geojson-viewer/?url=https://data.openwaterfoundation.org/state/co/owf/trail-orgs/co-trail-orgs.geojson) |
 
 ## Workflow ##
 
